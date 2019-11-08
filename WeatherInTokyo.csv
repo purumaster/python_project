@@ -1,8 +1,0 @@
-date,condition,high_temp (° F),low_temp (° F),day_length,sun_rise,sun_set
-Oct 21st 2019,Cloudy,61,54,11h 7m,5:52 AM,5:00 PM
-Oct 22nd 2019,Rain,64,59,11h 5m,5:53 AM,4:59 PM
-Oct 23rd 2019,Fair,63,54,11h 3m,5:54 AM,4:58 PM
-Oct 24th 2019,Cloudy,70,63,11h 1m,5:55 AM,4:57 PM
-Oct 25th 2019,Rain,63,57,10h 59m,5:56 AM,4:55 PM
-Oct 26th 2019,Cloudy,64,55,10h 57m,5:57 AM,4:54 PM
-Oct 27th 2019,Cloudy,64,55,10h 55m,5:58 AM,4:53 PM
